@@ -1,6 +1,6 @@
-import Homesection from "../components/homesection";
-import Rightside from "../components/rightside";
-import Leftside from "../components/Leftside";
+import Homesection from "./homesection";
+import Rightside from "./rightside";
+import Leftside from "./Leftside";
 
 function MainPage() {
   return (

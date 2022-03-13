@@ -3,7 +3,7 @@ import { signIn, useSession } from 'next-auth/react'
 import Link from 'next/link'
 import React from 'react'
 import SignIn from '../pages/auth/signin'
-import MainPage from './MainPage';
+import MainPage from '../components/MainPage';
 
 export default function Home({}) {
   const {data: session} = useSession();
