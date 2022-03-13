@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+    margin-top: 1rem;
+    margin-left: 22rem;
+}
+.button{
+    display: block;
+  width: 130%;
+  border: none;
+  background-color: #078bc9;
+  color: #fff;
+  border-radius: 30px;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+.button:hover{
+
+    background-color: #0777ac;
+}
+.dropdown:hover .dropdown-menu{
+display: block;
+padding: 2px;
+
+
+
+
+
+}
