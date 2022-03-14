@@ -9,7 +9,7 @@ function Post({ displayName, username, text }) {
   return (
     <>
   
-      <div className="hover:bg-slate-100 border-b-2 cursor-pointer">
+      <div className="hover:bg-slate-100 border-b-2 cursor-pointer pt-4 pb-2">
         <div className="flex flex-row px-5 mt-1 ">
           <img src={username} className="w-12 h-12 rounded-full" alt="" />
 
@@ -19,7 +19,7 @@ function Post({ displayName, username, text }) {
           </div>
         </div>
 
-        <div className="flex flex-row justify-around ml-4  mt-8 m-2">
+        <div className="flex flex-row justify-around ml-4  mt-8 m-2 ">
           <FaRegComment size={20} />
           <FaRetweet size={20} />
           <FcLikePlaceholder size={20} />
