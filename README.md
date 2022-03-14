@@ -35,6 +35,10 @@ This is a clone of Twitter . This build is for learning purpose only.
 <a><img  alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   </p>
 
+# How it look's
+<img src="gif/20220314_195023.gif" />
+<img src="gif/20220314_195419.gif" />
+<img src="gif/20220314_195541.gif" />
 
 # Some important information about Next.Js
 ## Getting Started
