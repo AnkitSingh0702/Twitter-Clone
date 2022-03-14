@@ -67,7 +67,6 @@ function Leftside() {
               Tweet
             </button>
           </div>
-          
 
           <div className="   ml-48   rounded-full px-2 py-1 dropdown inline-block relative ">
             <div className=" flex flex-row ">
@@ -78,7 +77,7 @@ function Leftside() {
               />
 
               <h1 className="ml-3 mt-1">{session?.user?.name}</h1>
-              
+
               <div className="ml-5 mt-2 ">
                 <BsThreeDots size={22} />
               </div>

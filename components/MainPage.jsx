@@ -5,9 +5,9 @@ import Leftside from "./Leftside";
 function MainPage() {
   return (
     <>
-    <header>
-      <title>Home/ TwitterClone</title>
-    </header>
+      <header>
+        <title>Home/ TwitterClone</title>
+      </header>
       <div className="grid grid-cols-3  ">
         <Leftside />
 

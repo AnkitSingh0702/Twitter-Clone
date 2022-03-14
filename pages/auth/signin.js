@@ -1,4 +1,3 @@
-import Link from "next/link";
 import {BsTwitter} from 'react-icons/bs'
 import { getProviders, signIn as SignIntoProvider } from "next-auth/react"
 
